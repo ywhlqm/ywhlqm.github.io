@@ -4,7 +4,7 @@ title: Sparks Fly
 date: 2011-6-18 
 tags: 泰勒·斯威夫特 
 ---
-
+![](/images/posts/image/456.jpg)
 The way you move is like a full on rainstorm
 
 你的一举一动都如暴风雨般让我刻骨铭心
