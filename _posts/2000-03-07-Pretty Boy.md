@@ -2,7 +2,7 @@
 layout: post
 title: Pretty Boy
 date: 2000-03-07
-tags: 博客   
+tags: M2M   
 ---
 
 I lie awake at night   
